@@ -41,7 +41,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/your-link"
+            href="https://www.linkedin.com/feed/"
             target="_blank"
             rel="noreferrer"
             className="w-12 h-12 md:w-14 md:h-14 rounded-full border border-gray-500 flex justify-center items-center text-gray-300 hover:bg-blue-600 hover:border-blue-600 hover:text-white duration-300"
