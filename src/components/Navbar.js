@@ -55,7 +55,7 @@ function Navbar(){
         {/* buttons */}
         <div>
 
-            <button className="bg-orange-500 px-6 py-2 rounded text-white capitalize hover:bg-orange-600">hire me</button>
+            <a href="#Contact"><button className="bg-orange-500 px-6 py-2 rounded text-white capitalize hover:bg-orange-600">hire me</button></a>
         </div>
 
     </div>

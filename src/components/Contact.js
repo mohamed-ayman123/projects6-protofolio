@@ -70,8 +70,7 @@ function Contact() {
                   href="mailto:Eldawoodymohamed683@gmail.com"
                   className="text-gray-400 hover:text-red-400 duration-300 break-all"
                 >
-                  eldawoodymohamed683
-                  @gmail.com
+                  eldawoodymohamed683@gmail.com
                 </a>
               </div>
             </div>
