@@ -67,7 +67,7 @@ function Contact() {
                 </h4>
 
                 <a
-                  href="mailto:Eldawoodymohamed683@gmail.com"
+                  href="https://mail.google.com/mail/u/0/?hl=ar#inbox"
                   className="text-gray-400 hover:text-red-400 duration-300 break-all"
                 >
                   eldawoodymohamed683@gmail.com
