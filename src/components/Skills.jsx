@@ -223,7 +223,7 @@
 // export default Skills;
 /////////////////////////////////////////////////////////
 import React, { useState } from "react";
-import skills from "../data/Skills.js";
+import skills from "../data/skills.js";
 import { useSettings } from "../context/SettingsContext";
 
 function Skills() {
