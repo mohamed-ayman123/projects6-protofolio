@@ -6,6 +6,8 @@ import {
 
 import existingProjects from "../data/projects";
 import { useSettings } from "../context/SettingsContext";
+import nexistechDashboard from "../assets/projects/nexistech-dashboard.png";
+import nexistechStore from "../assets/projects/nexistech-store.png";
 
 function Projects() {
   const { t } = useSettings();
@@ -16,7 +18,7 @@ function Projects() {
       id: "nexistech-admin",
       titleKey: "nexistechAdminTitle",
       descriptionKey: "nexistechAdminDescription",
-      image: "/src/assets/projects/nexistech-dashboard.png",
+      image: nexistechDashboard,
       live: "https://nexistech-dashboard.vercel.app/dashboard",
       github:
         "https://github.com/mohamed-ayman123/ecommerce-project/tree/main/admin-dashboard",
@@ -25,7 +27,7 @@ function Projects() {
       id: "nexistech-store",
       titleKey: "nexistechStoreTitle",
       descriptionKey: "nexistechStoreDescription",
-      image: "/src/assets/projects/nexistech-store.png",
+      image: nexistechStore,
       live: "https://nexistech.vercel.app/",
       github:
         "https://github.com/mohamed-ayman123/ecommerce-project/tree/main/store",
